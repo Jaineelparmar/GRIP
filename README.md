@@ -1,4 +1,4 @@
-Prediction-Using-Supervised-ML
+# Prediction-Using-Supervised-ML
 
 In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. 
 This is a simple linear regression task as it involves just two variables. 
@@ -10,7 +10,7 @@ This is a part of my internship at The Sparks Foundation: Graduate Research Inte
 
 
 
-Prediction-Using-Unsupervised-ML
+# Prediction-Using-Unsupervised-ML
 
 Here, we have to predict the optimum number of clusters of the given Iris dataset. 
 It is prediction using unsupervised machine learning and we do this by KMeans Clustering and elbow method. The elbow is where the optimum number of clusters occur.
